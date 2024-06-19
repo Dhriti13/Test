@@ -1,0 +1,12 @@
+Kim namjoon
+Kim seokjin
+Min yoongi
+Jung hoseok
+Park jimin
+Kim taehyung
+Jeon jungkook
+This file contains the names of all the 7 members of bts
+<<<<<<< HEAD
+including the leader
+=======
+>>>>>>> 7534bc28d8e150051995cee7408482c0f5a881a7
